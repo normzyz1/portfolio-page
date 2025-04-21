@@ -1,0 +1,14 @@
+logo: "WhatsApp Image 2025-04-21 at 16.40.16_331a51ad-modified"
+title: portfolio page
+description: > # this means to ignore newlines until "baseurl:"
+  This is your description.
+baseurl: "" # the subpath of your site, e.g., /blog
+url: "https://normzyz1.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+verbose: true
